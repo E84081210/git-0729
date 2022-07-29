@@ -3,4 +3,8 @@ asdsadsadsa
 asdksad
 saodposakdosada
 aoskdpsakdpsada
+<<<<<<< HEAD
+=======
+saodposakdosadasadsadsad
+>>>>>>> dev-add-docker
 saodposakdosada
